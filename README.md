@@ -1,6 +1,8 @@
 # Cloud Pak For Data Tutorial 
 
-This is the repository for the CP4D Tutorial Data and setup. CP4D Tutorial is based on  Cloud Pak for data v2.1. For more information on this exciting new Data Science Platform, please visit  [ibm.com](http://ibm.com). CP4Data provides an end-to-end, integrated & governed data & analytics solution platform where Data Engineers Data Stewards, Data Scientists and Business Users collaborate to bring forward the best insights from the existing data in the enterprise.
+This is the repository for the CP4D Tutorial Data and setup. CP4D Tutorial is based on  Cloud Pak for data v2.1. For more information on this exciting new Data Science Platform, please visit  [ibm.com](http://ibm.com). 
+---
+CP4Data provides an end-to-end, integrated & governed data & analytics solution platform where Data Engineers Data Stewards, Data Scientists and Business Users collaborate to bring forward the best insights from the existing data in the enterprise.
 
 
 ## Flow
